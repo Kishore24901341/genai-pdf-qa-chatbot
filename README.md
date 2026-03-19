@@ -88,6 +88,7 @@ if __name__ == "__main__":
 
 
 ### OUTPUT:
+![EXP3](https://github.com/user-attachments/assets/21ce616b-e526-4ed5-844b-a570c3c8baaa)
 
 ### RESULT:
 Prompt: A structured prompt template was designed to pass the document content and user query to the language model.
